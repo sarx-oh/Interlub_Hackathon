@@ -1,4 +1,4 @@
-# 🏆 Data Science Hackathon - Inventory Prediction
+# 🧠 Data Science Hackathon - Inventory Prediction
 
 ## 📌 Description
 This repository contains all the content generated during a data science hackathon, where we developed a model to predict the inventory of a lubricant company. Here you will find the code, reports, and analyses conducted during the event.
